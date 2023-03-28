@@ -1,4 +1,4 @@
-# MNIST-Handwriting-Classification
+# MNIST Handwriting Classification
 This project implements two popular classification algorithms, Naive Bayes and Logistic Regression, to classify handwritten digits from the MNIST dataset. The goal is to demonstrate how to vectorize image data and how to evaluate the performance of different classifiers using accuracy and confusion matrices.
 
 
